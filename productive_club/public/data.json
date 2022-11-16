@@ -1,0 +1,50 @@
+[
+  {
+    "img": "https://img.freepik.com/free-vector/book-lover-concept-illustration_114360-1467.jpg?w=740&t=st=1664470177~exp=1664470777~hmac=cd33af1d48cc670fc7397d5cee048b9d5e47410a57c934d9d736edb33f3d02b4",
+    "id": "1",
+    "name": "Reading Book",
+    "description": " Books can help reduce stress.Reading books builds your reading fluency.Reading increases your general knowledge. You'll become a better conversationalist",
+    "goal": "18",
+    "minute": 200
+  },
+  {
+    "img": "https://img.freepik.com/free-vector/young-man-with-laptop-relaxing-sofa-home_74855-5606.jpg?w=900&t=st=1664470125~exp=1664470725~hmac=0760b6c03937fcaf113720535382ff8f7858dc592930fb3093c51a1a0a9d9e2d",
+    "id": "2",
+    "name": "Listenting Audio-Book",
+    "description": "Increasing reading accuracy by 52%.expanding vocabulary and improving fluency. Teaching pronunciation.Improving comprehension by 76%.",
+    "goal": "38",
+    "minute": 120
+  },
+  {
+    "img": "https://img.freepik.com/free-vector/happy-girl-wearing-headphones-enjoying-playlist-listening-music-mobile-phone-singing-songs_74855-14053.jpg?w=900&t=st=1664470073~exp=1664470673~hmac=67c97089117ed0b932cf680baf26ffd048502608b05b141a43206fa41a94743f",
+    "id": "3",
+    "name": "Listenting Music",
+    "description": "It's heart healthy.It elevates mood.It reduces stress.It relieves symptoms of depression.It stimulates memories.It manages pain.It eases pain. ",
+    "goal": "10",
+    "minute": 50
+  },
+  {
+    "img": "https://img.freepik.com/free-vector/set-people-practicing-yoga_1262-19347.jpg?w=1060&t=st=1664469424~exp=1664470024~hmac=17e5a3b3a57c2b380a4450afc267180a1d5185b375baf8067c6942b942beaa18",
+    "id": "4",
+    "name": "Yoga",
+    "description": "Yoga improves strength, balance and flexibility.Yoga helps with back pain relief.Yoga can ease arthritis symptoms. Yoga benefits heart health.Yoga relaxes you, to help you sleep bette",
+    "goal": "10",
+    "minute": 50
+  },
+  {
+    "img": "https://img.freepik.com/free-vector/outdoor-scene-with-many-children-jogging-park_1308-62672.jpg?w=900&t=st=1664469577~exp=1664470177~hmac=555a0653226f5523ed489342e001452122dac739ddf1857caa0f17b692867a4c",
+    "id": "5",
+    "name": "Jogging",
+    "description": "help to build strong bones, as it is a weight bearing exercise.strengthen muscles.improve cardiovascular fitness. burn plenty of kilojoules.help maintain a healthy weight.",
+    "goal": "10",
+    "minute": 120
+  },
+  {
+    "img": "https://img.freepik.com/free-vector/happy-young-family-riding-bicycles-city-park_74855-7532.jpg?w=1060&t=st=1664469487~exp=1664470087~hmac=e35151583411ce2e26a4fb0b84ce01dc6d52d1019dabcb4ef897ddd7dec4f400",
+    "id": "6",
+    "name": "Riding Bicycle",
+    "description": "increased cardiovascular fitness.increased muscle strength and flexibility.improved joint mobility.decreased stress levels. improved posture and coordination.strengthened bones.",
+    "goal": "10",
+    "minute": 250
+  }
+]
